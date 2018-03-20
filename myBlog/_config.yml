@@ -80,7 +80,6 @@ theme: yilia
 deploy:
   type: git
   repository: https://github.com/Aaronyg/aaronyg.github.io.git
-  #repository: git@github.com:Aaronyg/aaronyg.github.io.git
   branch: master
 
 

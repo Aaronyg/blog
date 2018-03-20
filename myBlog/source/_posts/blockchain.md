@@ -1,6 +1,7 @@
 ---
 title: blockchain
 date: 2018-03-19 11:22:22
+<<<<<<< HEAD
 tags: IT•blockchain
 ---
 
@@ -46,3 +47,7 @@ tags: IT•blockchain
 获取比特币有3中途径： 一是作为矿工挖矿获得，二是线上交易所购买或者线下通过中间人购买，三是作为商家收取比特币
 
 ### 以太坊
+=======
+tags: blockchain
+---
+>>>>>>> 812ef10077b1951226297d0bc0831b5cd59e1ee3

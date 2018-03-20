@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: git guide
 date: 2018-03-17 11:22:22
 tags: IT•git
@@ -52,3 +53,9 @@ $ git checkout master
 $ git rebase upstream/master
 $ git push -f origin master
 ````
+=======
+title: git
+date: 2018-03-17 11:22:22
+tags: tools
+---
+>>>>>>> 812ef10077b1951226297d0bc0831b5cd59e1ee3
